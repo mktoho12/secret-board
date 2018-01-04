@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mktoho12/secret-board/issues"
   },
-  "homepage": "https://github.com/mktoho12/secret-board#readme"
+  "homepage": "https://github.com/mktoho12/secret-board#readme",
+  "dependencies": {
+    "jade": "^1.11.0"
+  }
 }
